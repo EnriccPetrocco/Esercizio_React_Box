@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.box {
+  height: 500px;
+  width: 500px;
+  background-color: #0092d7;
+}
+
+.quadratino {
+  height: 20px;
+  width: 20px;
+  background-color: #00c55c;
+  position: absolute;
+}
